@@ -9,9 +9,7 @@
 - React
 - Redux
 
-## Link to back end
-[link](https://github.com/shahira-sadat/hello-react-front-end/)
-
+## [Link to back end](https://github.com/shahira-sadat/hello-react-front-end/)
 
 ## Getting Started
 
